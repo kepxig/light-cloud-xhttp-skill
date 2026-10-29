@@ -1,0 +1,9 @@
+{
+  "name": "stream-check",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Server-side end-to-end verifier for the Light Cloud XHTTP VLESS node",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "engines": { "node": ">=18" }
+}
